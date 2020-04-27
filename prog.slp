@@ -1,0 +1,29 @@
+function
+def
+var vi1
+var vi2
+vet va3 size ci100
+enddef
+if vi2
+vi1 = ci1
+endif
+if vi1
+return ci1
+endif
+return ci0
+end
+
+function
+def
+var vi1
+var vi2
+vet va3 size ci100
+enddef
+if vi2
+vi1 = ci1
+endif
+if vi1
+return ci1
+endif
+return ci0
+end
